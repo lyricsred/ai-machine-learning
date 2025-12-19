@@ -9,4 +9,4 @@
 
 1) Regression with Inference. Статус: "выполнено".
 2) Gradient Descent. Статус: "выполнено".
-3) Classification. статус: "выполнено".
+3) Classification. Статус: "выполнено".
